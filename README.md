@@ -1,142 +1,105 @@
-# 👋 Hi there, I'm Hyeonggyu!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+Native+Enthusiast;DevOps+Practitioner" alt="Typing SVG" />
+
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=190&section=header&text=Hyeonggyu%20Kim&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Agent%20%C2%B7%20Backend%20%C2%B7%20Cloud%20Native&descSize=17&descAlignY=51" />
+
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&height=45&lines=Building+AI+Agents+with+MCP+%26+LangGraph;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Next.js;RAG+%C2%B7+Multi-Agent+%C2%B7+Cloud+Native" />
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=fff&animation=fadeIn" />
-</div>
+## 🧑‍💻 About Me
 
-## 🚀 About Me
-
-- 🔭 I'm currently working on **AI-powered applications** and **cloud-native solutions**
-- 🌱 I'm constantly learning about **Large Language Models** and **Distributed Systems**
-- 💡 I love building **scalable backends** and **intelligent automation**
-- 🎯 Goal: Contributing to the future of **AI-driven development**
-
----
+- 🤖 Building **agentic AI systems** — MCP servers, multi-agent orchestration, RAG pipelines
+- ⚙️ Backend by trade — **Spring Boot · FastAPI**, event-driven with **Kafka**
+- ☁️ Shipping on **AWS · Kubernetes**, provisioned with **Terraform**, deployed by **GitHub Actions**
+- ⚡ AI-native workflow — pair-programming daily with **Claude Code** & **Cursor**
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+### 🤖 AI & Agents
 
-### 🎯 Backend Frameworks & Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+</p>
 
-### 🎨 Frontend Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
+### 💻 Languages
 
-### 🤖 AI & Machine Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dify-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM_Studio-6366F1?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</div>
+<p><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="TypeScript, JavaScript, Python, Java" /></p>
 
-### 🗄️ Databases & ORMs
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-</div>
+### ⚙️ Backend
 
-### 📡 Message Queues & Event Streaming
-<div align="center">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</div>
+<p><img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" alt="Spring, FastAPI" /></p>
 
-### ☁️ Cloud & Infrastructure
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</div>
+### 🎨 Frontend
 
-### 🔧 DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+</p>
 
-### 🛡️ Security & Protocols
-<div align="center">
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</div>
+### 🗄️ Data & Messaging
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,prisma,kafka,rabbitmq&theme=dark" alt="PostgreSQL, MySQL, Redis, Supabase, Prisma, Kafka, RabbitMQ" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,vercel,nginx,githubactions,grafana,sentry&theme=dark" alt="AWS, Docker, Kubernetes, Terraform, Vercel, Nginx, GitHub Actions, Grafana, Sentry" /></p>
+
+### ⚡ AI-Native Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shokoku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shokoku&theme=tokyonight&hide_border=true&background=1a1b27" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shokoku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true">
+    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shokoku&show_icons=true&hide_border=true&include_all_commits=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shokoku&theme=tokyonight&hide_border=true&background=0d1117">
+    <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=shokoku&hide_border=true">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokoku&theme=tokyonight&hide_border=true&bg_color=1a1b27&layout=compact" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shokoku&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=3" />
-</div>
-
----
-
-## 🔥 Current Focus
-
-- 🧠 **AI Agent Development** with LangGraph and CrewAI
-- 🌐 **Microservices Architecture** with Spring Boot and Docker
-- 📈 **Event-Driven Systems** using Kafka and RabbitMQ
-- ☁️ **Cloud-Native Applications** on AWS with Kubernetes
-- 🚀 **Full-Stack AI Applications** with Next.js and Python backends
-
----
-
-## 📈 Activity Graph
-
-[![Shokoku's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shokoku&theme=tokyo-night&hide_border=true&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shokoku&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true">
+    <img width="97%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shokoku&hide_border=true&bg_color=ffffff&color=24292f&line=6366F1&point=EC4899&area=true">
+  </picture>
 </div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shokoku/shokoku/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/shokoku/shokoku/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/shokoku"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shokoku83@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<div align="center">
+  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=110&section=footer" />
   <p>💡 <em>"The best way to predict the future is to build it."</em></p>
-  <p>⭐ From <a href="https://github.com/shokoku">Hyeonggyu</a></p>
 </div>
