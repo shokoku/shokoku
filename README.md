@@ -2,13 +2,13 @@
 
   <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=190&section=header&text=Hyeonggyu%20Kim&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Agent%20%C2%B7%20Backend%20%C2%B7%20Cloud%20Native&descSize=17&descAlignY=51" />
 
-  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&height=45&lines=Building+AI+Agents+with+MCP+%26+LangGraph;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Next.js;RAG+%C2%B7+Multi-Agent+%C2%B7+Cloud+Native" />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&height=45&lines=Self-Hosted+AI+Agents+%E2%80%94+Hermes+%C2%B7+OpenClaw+%C2%B7+MCP;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Next.js;RAG+%C2%B7+Multi-Agent+%C2%B7+Cloud+Native" />
 
 </div>
 
 ## 🧑‍💻 About Me
 
-- 🤖 Building **agentic AI systems** — MCP servers, multi-agent orchestration, RAG pipelines
+- 🤖 Building **agentic AI systems** — MCP servers, self-hosted agents (**Hermes**, **OpenClaw**), RAG pipelines
 - ⚙️ Backend by trade — **Spring Boot · FastAPI**, event-driven with **Kafka**
 - ☁️ Shipping on **AWS · Kubernetes**, provisioned with **Terraform**, deployed by **GitHub Actions**
 - ⚡ AI-native workflow — pair-programming daily with **Claude Code** & **Cursor**
@@ -20,6 +20,9 @@
 <p>
   <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-5B4FC4?style=for-the-badge&logoColor=white" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%9E_OpenClaw-E8482B?style=for-the-badge&logoColor=white" alt="OpenClaw" />
+  <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
