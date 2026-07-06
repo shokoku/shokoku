@@ -1,0 +1,27 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"        # 매일 00:00 UTC 자동 갱신
+  workflow_dispatch:            # Actions 탭에서 수동 실행 가능
+  push:
+    branches: [main]
+    paths-ignore:
+      - "profile-summary-card-output/**"   # 생성물 커밋으로 자기 자신을 재실행하지 않도록 제외
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          AUTO_PUSH: true

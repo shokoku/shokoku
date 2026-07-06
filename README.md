@@ -11,7 +11,7 @@
 - 🤖 Building **agentic AI systems** — MCP servers, self-hosted agents (**Hermes**, **OpenClaw**), RAG pipelines
 - ⚙️ Backend by trade — **Spring Boot · FastAPI**, event-driven with **Kafka**
 - ☁️ Shipping on **AWS · Kubernetes**, provisioned with **Terraform**, deployed by **GitHub Actions**
-- ⚡ AI-native workflow — pair-programming daily with **Claude Code** & **Cursor**
+- ⚡ AI-native workflow — pair-programming daily with **Claude Code**, **Codex** & **Cursor**
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@
 
 ### 💻 Languages
 
-<p><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="TypeScript, JavaScript, Python, Java" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,ts,java,js&theme=dark" alt="Python, TypeScript, Java, JavaScript" /></p>
 
 ### ⚙️ Backend
 
@@ -64,6 +64,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
@@ -71,14 +72,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shokoku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shokoku&show_icons=true&hide_border=true&include_all_commits=true">
-  </picture>
+  <img height="180" alt="GitHub Stats" src="https://raw.githubusercontent.com/shokoku/shokoku/main/profile-summary-card-output/tokyonight/3-stats.svg" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shokoku&theme=tokyonight&hide_border=true&background=0d1117">
-    <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=shokoku&hide_border=true">
+    <img height="180" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=shokoku&hide_border=true">
   </picture>
+</div>
+
+<div align="center">
+  <img height="180" alt="Top Languages" src="https://raw.githubusercontent.com/shokoku/shokoku/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="180" alt="Most Commit Language" src="https://raw.githubusercontent.com/shokoku/shokoku/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
 <div align="center">
