@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Backend at the core. Always exploring.</title>
+  <desc id="desc">A typographic header for Hyeonggyu Kim, a Java and Spring Boot backend developer who explores AI agents.</desc>
+  <rect width="960" height="248" rx="12" fill="#171426" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">
+    <text x="40" y="106" fill="#F5F2FF">Backend at the core.</text>
+    <text x="40" y="180" fill="#B8A8FF">Always exploring.</text>
+  </g>
+  <path d="M40 212H920" stroke="#383052" />
+</svg>
