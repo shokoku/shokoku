@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"        # 매일 00:00 UTC 자동 갱신
+    - cron: "0 0 * * 0"        # 매주 일요일 00:00 UTC 자동 갱신 (Actions 허용치 절약)
   workflow_dispatch:            # Actions 탭에서 수동 실행 가능
   push:
     branches: [main]
